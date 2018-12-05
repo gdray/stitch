@@ -1,0 +1,2 @@
+# stitch
+Arctic image stitching
